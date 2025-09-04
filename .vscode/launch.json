@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HW54a",
+            "request": "launch",
+            "mainClass": "HW54a",
+            "projectName": "java-1-2-canton-design_7dca78c8"
+        },
+        {
+            "type": "java",
+            "name": "HW54c",
+            "request": "launch",
+            "mainClass": "HW54c",
+            "projectName": "java-1-2-canton-design_7dca78c8"
+        },
+        {
+            "type": "java",
+            "name": "HW52a",
+            "request": "launch",
+            "mainClass": "HW52a",
+            "projectName": "java-1-2-canton-design_7dca78c8"
+        },
+        {
+            "type": "java",
             "name": "IdentifyErrors",
             "request": "launch",
             "mainClass": "IdentifyErrors",

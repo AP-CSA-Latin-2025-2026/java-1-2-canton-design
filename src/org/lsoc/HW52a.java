@@ -1,5 +1,5 @@
 public class HW52a{
-  public static void main(string[] args){
+  public static void main(String[] args){
     int length = 143; 
     int width = 82;
     int perim = length + length + width + width;
