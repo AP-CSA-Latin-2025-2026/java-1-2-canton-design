@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HW54b",
+            "request": "launch",
+            "mainClass": "HW54b",
+            "projectName": "java-1-2-canton-design_7dca78c8"
+        },
+        {
+            "type": "java",
             "name": "HW54a",
             "request": "launch",
             "mainClass": "HW54a",
